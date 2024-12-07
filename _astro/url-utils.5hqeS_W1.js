@@ -1,0 +1,1 @@
+import"./zh_TW.NDohVivl.js";function c(e,r){return e.replace(/^\/|\/$/g,"").toLowerCase()===r.replace(/^\/|\/$/g,"").toLowerCase()}function t(...e){return e.join("/").replace(/\/+/g,"/")}function i(e){return t("","/photography-club/",e)}export{c as p,i as u};

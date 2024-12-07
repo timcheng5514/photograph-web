@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://timcheng5514.github.io/sitemap-index.xml
